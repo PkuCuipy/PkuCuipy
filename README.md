@@ -1,4 +1,24 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=pkucuipy&show_icons=true) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pkucuipy&layout=compact) -->
+
+<a href="https://github.com/PkuCuipy">
+  <img 
+       align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=pkucuipy&show_icons=true" />
+</a>
+
+<a href="https://github.com/PkuCuipy">
+  <img 
+       align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkucuipy&layout=default" />
+
+</a>
+
+
+![](https://komarev.com/ghpvc/?username=pkucuipy&label=Visitors+Counter)
+
 
 <!--
 **PkuCuipy/PkuCuipy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
