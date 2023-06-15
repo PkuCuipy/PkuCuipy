@@ -3,7 +3,7 @@
 </a>
  -->
 
-![](https://komarev.com/ghpvc/?username=pkucuipy&label=Visitors+Counter)
+<!-- ![](https://komarev.com/ghpvc/?username=pkucuipy&label=Visitors+Counter) -->
 
 <!-- <a href="https://clustrmaps.com/site/1bta2" title="Visit tracker">
   <img src="https://www.clustrmaps.com/map_v2.png?d=yg7x9Zbn91baKhP7djYPBu71Yo1lM8chC-TBF_J1cjQ&cl=ffffff"/>
