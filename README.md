@@ -1,7 +1,7 @@
 <!-- <a href="https://github.com/PkuCuipy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkucuipy" /></a> -->
 
 
-Welcome to my [homepage](https://pkucuipy.github.io) ! 🥳 
+Welcome to my <a href="https://pkucuipy.github.io" target="_blank">homepage</a> ! 🥳
 
 <!-- ![](https://komarev.com/ghpvc/?username=pkucuipy&label=Views&color=blue&style=flat-square) -->
 
