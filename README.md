@@ -6,11 +6,6 @@ I’m a passionate CS/AI enthusiast, actively exploring the intersection of tech
 
 My love for dev fuels my desire to create solutions that make life easier, more efficient, and accessible for everyone. 🌏
 
-What I’m focused on:
-
-- Building projects that solve real-world problems
-- Learning new tools and technologies to keep pushing boundaries
-- Contributing to the open-source community
 
 #### I'm currently actively seeking 25 summer SDE/MLE co-op opportunities in Canada~ 🍁 👀
 
