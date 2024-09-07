@@ -2,9 +2,7 @@
 
 #### Hi there! 👋
 
-I’m a passionate CS/AI enthusiast, actively exploring the intersection of technology and human potential. ✨
-
-My love for dev fuels my desire to create solutions that make life easier, more efficient, and accessible for everyone. 🌏
+I’m a passionate CS/AI enthusiast, actively exploring the intersection of technology and human potential. ✨ My love for dev fuels my desire to create solutions that make life easier, more efficient, and accessible for everyone. 🌏
 
 
 #### I'm currently actively seeking 25 summer SDE/MLE co-op opportunities in Canada~ 🍁 👀
