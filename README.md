@@ -7,4 +7,6 @@ I’m a passionate CS/AI enthusiast, actively exploring the intersection of tech
 
 #### I'm currently actively seeking 25 summer SDE/MLE co-op opportunities in Canada~ 🍁 👀
 
+---
+
 Welcome to my <a href="https://pkucuipy.github.io" target="_blank">homepage</a> ! 😉
