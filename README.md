@@ -6,4 +6,4 @@ I’m Pengyu, a CS/AI enthusiast who always explore the intersection of tech and
 
 To learn more, welcome to my <a href="https://pkucuipy.github.io" target="_blank">homepage</a> ! 😉
 
-#### BTW, I'm actively seeking 25 Summer SDE/MLE co-op opportunities in Canada 🍁👀
+#### BTW, I'm actively seeking Summer 2025 SDE/MLE co-op opportunities in Canada 🍁👀
